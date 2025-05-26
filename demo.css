@@ -13,4 +13,10 @@ body{
 	height: 100px;
 	width: 100px;
 	background-color: black;
+	border: 5px solid transparent;
+}
+
+.box:hover{
+	background-color: red;
+	border: 5px solid black;
 }
