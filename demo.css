@@ -12,12 +12,12 @@ body{
 .box{
 	height: 100px;
 	width: 100px;
-	background-color: black;
+	background-color: green;
 	border: 5px solid transparent;
 }
 
 .box:hover{
-	background-color: red;
+	background-color: yellow;
 	border: 5px solid black;
 	border-radius: 20px;
 }
